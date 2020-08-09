@@ -1,0 +1,12 @@
+body {
+  background-color: #A09ABB;
+  text-align: center;
+}
+
+a {
+  color: #F1B2AD;
+}
+
+a:hover {
+  color: #EB968E;
+}

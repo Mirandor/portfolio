@@ -33,10 +33,10 @@ function ProjectCard() {
       imageLink: "/Images/WorkDayScheduler.png"
     },
     {
-      projectName: "Episode Two",
-      description: "Stay in a galaxy far far away.",
-      repoLink: "https://github.com/Mirandor/Episode-two",
-      liveLink: "https://damp-badlands-10024.herokuapp.com/",
+      projectName: "Journey",
+      description: "Record your itinerary and share it.",
+      repoLink: "https://github.com/Mirandor/Last-dance",
+      liveLink: "https://lastdance-journey.herokuapp.com/",
       imageLink: "/Images/EpisodeTwo.png"
     },
     {
@@ -44,7 +44,7 @@ function ProjectCard() {
       description: "A place to take quick simple notes.",
       repoLink: "https://github.com/Mirandor/notetaker",
       liveLink: "https://notetaker-darthmirandor.herokuapp.com/",
-      imageLink: "/Images/NoteTaker.png"
+      imageLink: "/Images/Journey.png"
     }
    ]
   })

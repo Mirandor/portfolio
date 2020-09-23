@@ -37,14 +37,14 @@ function ProjectCard() {
       description: "Record your itinerary and share it.",
       repoLink: "https://github.com/Mirandor/Last-dance",
       liveLink: "https://lastdance-journey.herokuapp.com/",
-      imageLink: "/Images/EpisodeTwo.png"
+      imageLink: "/Images/Journey.png"
     },
     {
       projectName: "Note Taker",
       description: "A place to take quick simple notes.",
       repoLink: "https://github.com/Mirandor/notetaker",
       liveLink: "https://notetaker-darthmirandor.herokuapp.com/",
-      imageLink: "/Images/Journey.png"
+      imageLink: "/Images/NoteTaker.png"
     }
    ]
   })
